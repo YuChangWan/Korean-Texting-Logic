@@ -1,4 +1,4 @@
-# Korean-Texting-Logic
+# The-classic-Korean-keyboard
 The classic Korean soft(screen, virtual) keyboard for Android.
 
 It's very simple keyboard.
